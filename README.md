@@ -1,33 +1,33 @@
-# 🚀 Smart Home System Project
+  ----------------- Smart Home System Project------------------
 
-## 📌 Overview
+Overview
 This project demonstrates a smart home automation concept using basic programming and modern ideas.
 
-## 🎯 Objectives
+Objectives
 - Learn GitHub repository management
 - Understand project structure
 - Explore smart technology
 
-## 🛠️ Technologies Used
+Technologies Used
 - Python (Basic)
 - IoT Concepts
 - GitHub
 
-## 📂 Project Structure
+ Project Structure
 - README.md
 - about_me.txt
 - project_idea.txt
 - main.py
 
-## 👨‍💻 Author
+Author
 Praveen Kumar S  
 B.Tech Information Technology  
 V.S.B Engineering College, Karur  
 
-## 🔮 Future Scope
+Future Scope
 - Mobile app control
 - Voice assistant integration
 - Real-time automation
 
 ---
-⭐ This project is part of my GitHub learning journey.
+This project is part of my GitHub learning journey.
