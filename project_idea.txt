@@ -1,0 +1,9 @@
+Project Title: Smart Home System
+
+Idea:
+Control home appliances like lights and fans using automation.
+
+Features:
+- Remote control
+- Energy saving
+- Smart monitoring
