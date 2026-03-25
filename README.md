@@ -1,6 +1,6 @@
-  ----------------- Smart Home System Project------------------
+# 🚀 Smart Home System Project
 
-Overview
+## 📌 Overview
 This project demonstrates a smart home automation concept using basic programming and modern ideas.
 
 Objectives
